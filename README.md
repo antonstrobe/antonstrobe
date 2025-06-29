@@ -1,1 +1,1 @@
-![UI hint](https://github.com/antonstrobe/OverlayTool/app.ico) 
+![UI hint](https://raw.githubusercontent.com/antonstrobe/OverlayTool/refs/heads/main/app.ico)
