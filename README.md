@@ -1,2 +1,1 @@
-# LineGuide – утилита … MIT  
-[![UI hint](app.ico)](https://github.com/antonstrobe/OverlayTool)
+[![OverlayTool icon](https://raw.githubusercontent.com/antonstrobe/OverlayTool/main/app.ico)](https://github.com/antonstrobe/OverlayTool)
