@@ -11,4 +11,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <a href="https://github.com/antonstrobe/LifeControl">
+        <img src="https://raw.githubusercontent.com/antonstrobe/LifeControl/main/docs/assets/github-project-card.png" alt="LifeControl" width="420" />
+      </a>
+    </td>
+  </tr>
 </table>
