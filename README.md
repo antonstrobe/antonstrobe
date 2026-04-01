@@ -12,7 +12,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top" width="50%">
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/antonstrobe/LifeControl">
         <img src="https://raw.githubusercontent.com/antonstrobe/LifeControl/main/docs/assets/github-project-card.png" alt="LifeControl" width="420" />
       </a>
