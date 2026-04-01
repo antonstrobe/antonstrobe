@@ -9,12 +9,8 @@
       <a href="https://github.com/AntonStrobe/HeadacheInsight">
         <img src="https://raw.githubusercontent.com/AntonStrobe/HeadacheInsight/main/docs/assets/github-project-card.png" alt="HeadacheInsight" width="420" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-    </td>
-    <td align="center" valign="top" width="50%">
+      <br />
+      <br />
       <a href="https://github.com/antonstrobe/LifeControl">
         <img src="https://raw.githubusercontent.com/antonstrobe/LifeControl/main/docs/assets/github-project-card.png" alt="LifeControl" width="420" />
       </a>
